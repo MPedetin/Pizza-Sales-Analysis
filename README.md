@@ -26,5 +26,5 @@ Overall, the exploratory analysis provide meaningful insight
 -Python-Pandas -NumPy -Matplotlib -Seaborn 
 
 
-Author 
-Mauton Pedetin
+## Author ##
+**Mauton Pedetin**
